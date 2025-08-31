@@ -71,7 +71,7 @@ export default function App() {
                 <div className="absolute inset-0 bg-gradient-to-br from-aafiyah-sage to-aafiyah-rose rounded-3xl shadow-2xl transform rotate-3"></div>
                 <div className="relative w-full h-full bg-white rounded-3xl shadow-xl overflow-hidden border-8 border-gray-100">
                   <ImageWithFallback 
-                    src="https://images.unsplash.com/photo-1683348759141-da99061d8353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBoZWFsdGhjYXJlJTIwd29tYW58ZW58MXx8fHwxNzU2NjU3NDc2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                    src="/images/1st page.png"
                     alt="Aafiyah mobile app mockup"
                     className="w-full h-full object-cover"
                   />
@@ -817,7 +817,7 @@ export default function App() {
             >
               <div className="w-64 h-96 bg-white rounded-3xl shadow-2xl overflow-hidden border-8 border-gray-100 transform hover:scale-105 transition-transform duration-300">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1747224317356-6dd1a4a078fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBkYXNoYm9hcmQlMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzU2NjIyMzYwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/images/Dashboard.png"
                   alt="Home Dashboard"
                   className="w-full h-full object-cover"
                 />
@@ -836,7 +836,7 @@ export default function App() {
             >
               <div className="w-48 h-72 bg-white rounded-2xl shadow-xl overflow-hidden border-4 border-gray-100 transform -rotate-12 hover:rotate-6 hover:scale-110 transition-transform duration-300">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1659353886114-9aa119aef5aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwY29uc3VsdGF0aW9uJTIwYXBwfGVufDF8fHx8MTc1NjY1NzQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/images/AI Agent"
                   alt="AI Chatbot Interface"
                   className="w-full h-full object-cover"
                 />
@@ -853,7 +853,7 @@ export default function App() {
             >
               <div className="w-44 h-64 bg-white rounded-2xl shadow-xl overflow-hidden border-4 border-gray-100 transform rotate-12 hover:-rotate-3 hover:scale-110 transition-transform duration-300">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1683348759141-da99061d8353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBoZWFsdGhjYXJlJTIwd29tYW58ZW58MXx8fHwxNzU2NjU3NDc2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/images/Symptom Tracker.png"
                   alt="Symptom Tracker"
                   className="w-full h-full object-cover"
                 />
@@ -870,7 +870,7 @@ export default function App() {
             >
               <div className="w-40 h-60 bg-white rounded-2xl shadow-xl overflow-hidden border-4 border-gray-100 transform rotate-6 hover:-rotate-6 hover:scale-110 transition-transform duration-300">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1747224317356-6dd1a4a078fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBkYXNoYm9hcmQlMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzU2NjIyMzYwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/images/Nutrition.png"
                   alt="Wellness Hub"
                   className="w-full h-full object-cover"
                 />
@@ -887,7 +887,7 @@ export default function App() {
             >
               <div className="w-42 h-62 bg-white rounded-2xl shadow-xl overflow-hidden border-4 border-gray-100 transform -rotate-8 hover:rotate-3 hover:scale-110 transition-transform duration-300">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1659353886114-9aa119aef5aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwY29uc3VsdGF0aW9uJTIwYXBwfGVufDF8fHx8MTc1NjY1NzQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/images/uploas scan.png"
                   alt="Medical Analysis"
                   className="w-full h-full object-cover"
                 />
@@ -904,7 +904,7 @@ export default function App() {
             >
               <div className="w-36 h-56 bg-white rounded-2xl shadow-xl overflow-hidden border-4 border-gray-100 transform rotate-15 hover:rotate-6 hover:scale-110 transition-transform duration-300">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1683348759141-da99061d8353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBoZWFsdGhjYXJlJTIwd29tYW58ZW58MXx8fHwxNzU2NjU3NDc2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/images/Community.png"
                   alt="Community"
                   className="w-full h-full object-cover"
                 />
@@ -921,7 +921,7 @@ export default function App() {
             >
               <div className="w-36 h-56 bg-white rounded-2xl shadow-xl overflow-hidden border-4 border-gray-100 transform -rotate-15 hover:-rotate-6 hover:scale-110 transition-transform duration-300">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1747224317356-6dd1a4a078fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBkYXNoYm9hcmQlMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzU2NjIyMzYwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="Exercise.png"
                   alt="Analytics"
                   className="w-full h-full object-cover"
                 />
